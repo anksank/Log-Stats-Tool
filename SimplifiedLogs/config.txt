@@ -1,0 +1,19 @@
+SVM UI Application Sessions::VMC scanner listener added
+SVM UI Build Number::SVM UI Build Number :
+VMC Login Attempts::Dispatching event EVENT_VMC_SCANNER_CARD_INSERTED
+VMC Login Fail::VMC Error while recovering customer
+VMC First Time Swipe::Unknown user
+VMC Auto Customer Creation Attempt::initiates the automatic creation of the customer
+VMC Auto Customer Creation Success::VMC customer successfully created
+VMC Auto Gift Fail::Error while sending gift to customer
+VMC Login Success::SVMUIImpl fireLogin : false
+VMC Logout::Dispatching event EVENT_VMC_SCANNER_CARD_REMOVED
+Product Overlay Sessions::loadProductDetails : Product Id :
+Purchase Attempt::buyHandler product id:
+Vend Fail Due to No Product from UI::Error: System.Exception: Product from UI is empty
+Vend Fail Due to Payment::ProductService Payment failed
+Vend Fail Due to Machine::ProductService Vending failed.
+Vend Success::ProductService Vending Success.
+Gift Redeem Attempt::redeemHandler product id:
+Gift Send Attempt::sendGift product id:
+Gift Send Success::Offer coupon succeed !

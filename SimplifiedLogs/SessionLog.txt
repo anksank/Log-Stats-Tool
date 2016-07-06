@@ -1,0 +1,28 @@
+Successful Vend: 0
+failed Vend: 0
+SessionId 1 : Login
+SessionId 1 : Logout
+Successful Vend: 0
+failed Vend: 0
+SessionId 2 : Login
+SessionId 2 : Logout
+Successful Vend: 0
+failed Vend: 0
+SessionId 3 : Login
+SessionId 3 : Logout
+Successful Vend: 0
+failed Vend: 0
+SessionId 4 : Login
+SessionId 4 : Logout
+Successful Vend: 0
+failed Vend: 0
+SessionId 5 : Login
+SessionId 5 : Logout
+Successful Vend: 0
+failed Vend: 0
+SessionId 6 : Login
+SessionId 6 : Logout
+Successful Vend: 0
+failed Vend: 0
+SessionId 7 : Login
+SessionId 7 : Logout

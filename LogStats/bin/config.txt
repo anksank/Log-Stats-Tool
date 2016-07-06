@@ -1,0 +1,4 @@
+Successful Logins::Login activity for user
+Successful Logouts::Logout activity for user
+Vending Successful::Has vending succeeded : true
+Vending Failures::Has vending succeeded : false
